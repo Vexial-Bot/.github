@@ -1,7 +1,5 @@
 <div align="center">
-  <p>
-    <a href="https://vexial.xyz"><img src="vexiala.png" width="550" alt="VexialLogo" /></a>
-  </p>
+  ![Vexial](https://github.com/Vexial-Bot/.github/raw/main/profile/vexiala.png)
 </div>
 
 ## About Us
